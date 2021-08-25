@@ -16,6 +16,5 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@LRodrigoe7-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/L_Rodr1go)
 [![Instagram](https://img.shields.io/badge/Instagram-@LRodrigoe7-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/lrodrigoe7/)
 </br>
-[![Facebook](https://img.shields.io/badge/Facebook-Luciano-Rodrigo-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/mouredev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luciano-Gabriel-Rodrigo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/luciano-gabriel-rodrigo-3402821ba/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luciano_Rodrigo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
+[![Facebook](https://img.shields.io/badge/Facebook-@LucianoRodrigo-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/mouredev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luciano_Gabriel_Rodrigo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/luciano-gabriel-rodrigo-3402821ba/)
