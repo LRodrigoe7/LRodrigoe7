@@ -1,6 +1,6 @@
 <h1 align="center">Hi,I'm Luciano <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <h3 align="center">I am a programming student</h3>
-<a href="#"><img src="https://steamuserimages-a.akamaihd.net/ugc/945086959075668220/257DECCEF6846BCC6CCEEB44356B3039DD3792AA/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" widht="700px" height="600px" /></a>
+<a href="#"><img src="https://steamuserimages-a.akamaihd.net/ugc/945086959075668220/257DECCEF6846BCC6CCEEB44356B3039DD3792AA/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" widht="650px" height="600px" /></a>
 
 ## 🙋‍♂️ About Me
 
