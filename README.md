@@ -6,9 +6,9 @@
 
 - 🌍 I am from Argentina
 
-- 📚 Secondary studies in progress
+- 📚 University studies in progress.
 
-- 🎯 I am currently studying in the Inst. Ind. Luis A. Huergo.
+- 🎯 I am currently studying at the Technological Institute of Buenos Aires
 
 ## Find me at:
 [![Twitter](https://img.shields.io/badge/Twitter-@LRodrigoe7-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/L_Rodr1go)
