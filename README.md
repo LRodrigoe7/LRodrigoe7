@@ -1,58 +1,55 @@
-# ¡Hola! Soy Luciano <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Luciano G. Rodrigo — Desarrollador Full Stack
 
-Desarrollador Full Stack enfocado en construir soluciones robustas, eficientes y escalables. Actualmente combino mi formación universitaria en la **Universidad Tecnológica Nacional (UTN)** con el diseño e implementación de proyectos de software independientes y MVPs de alto impacto para clientes.
+Desarrollador Full Stack enfocado en el diseño, arquitectura y despliegue de soluciones robustas, eficientes y escalables. Actualmente combino mi formación universitaria en la **Universidad Tecnológica Nacional (UTN)** con la consultoría técnica independiente y la creación de MVPs de alta complejidad para empresas y startups.
 
-Me apasiona la arquitectura de software, optimizar bases de datos y resolver problemas reales de integración en entornos de producción (APIs asíncronas, webhooks en tiempo real y rate-limiting estricto).
+Especializado en optimización de bases de datos relacionales, automatización de procesos mediante Inteligencia Artificial y resolución de desafíos críticos en integraciones asíncronas y flujos de datos en tiempo real.
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 🛠️ Stack Tecnológico Principal
 
 | Capa | Tecnologías |
 | :--- | :--- |
 | **Frontend** | Next.js 14/15 (App Router), TypeScript, React, PWA (Progressive Web Apps) |
 | **Estilos & UI** | Tailwind CSS, Shadcn/ui, Framer Motion |
-| **Backend & APIs** | Node.js, Next.js API Routes (Serverless / Edge), REST APIs |
+| **Backend & APIs** | Node.js, Next.js API Routes (Serverless / Edge), REST APIs, Integración de Webhooks |
 | **Base de Datos & Storage** | Supabase (PostgreSQL), Realtime WebSockets, Supabase Storage |
-| **DevOps & Deploy** | Vercel (CI/CD), Git & GitHub, Edge Networks |
-| **Herramientas & Protocolos** | Web Push API (Notificaciones Nativas), WebSockets, Integración de Webhooks |
+| **DevOps & Infraestructura** | Vercel (CI/CD), Git & GitHub, Edge Networks |
+| **Protocolos & Notificaciones** | Web Push API (Notificaciones Nativas), WebSockets |
 
 ---
 
-### 📈 Proyectos Destacados
+### 📈 Proyectos y Casos de Estudio
 
 #### 🚀 Hacelo Viral — Plataforma AI-Driven de Publicidad Automática (MVP)
-Diseñé y lideré la arquitectura técnica de un MVP escalable para una plataforma SaaS de generación y automatización de campañas publicitarias dinámicas.
-* **Integración de Inteligencia Artificial:** Implementación de pipelines de backend orientados al procesamiento de prompts para la generación automatizada de copys y estructuras de anuncios optimizados para conversión.
+Diseñé y lideré la arquitectura técnica de una plataforma SaaS comercial para la generación y automatización de campañas publicitarias dinámicas bajo financiamiento de capital privado.
+* **Integración de Inteligencia Artificial:** Implementation de pipelines en el backend orientados al procesamiento de prompts complejos para la generación automatizada de copys y estructuras de anuncios optimizados para conversión.
 * **Módulo de Reclutamiento Integrado:** Desarrollo de un sistema de tracking de aplicaciones y emparejamiento de perfiles para conectar creadores de contenido y marcas dentro de la misma plataforma.
-* **Estructura SaaS Multi-tenant:** Modelado y securización de la base de datos relacional para aislar de forma eficiente el consumo de recursos, analíticas y almacenamiento por cliente utilizando arquitecturas serverless sobre Vercel y Supabase.
+* **Estructura SaaS Multi-tenant:** Modelado y securización de la base de datos relacional para aislar de forma eficiente el consumo de recursos, analíticas y almacenamiento por cliente utilizando arquitecturas serverless.
+
+> **Stack Utilizado:** `Next.js` · `TypeScript` · `Supabase (PostgreSQL)` · `OpenAI API` · `Vercel`
 
 #### 🛠️ Sistema SaaS en Tiempo Real para Gestión de Talleres
-Desarrollé una plataforma de automatización completa para digitalizar todo el flujo operativo de un taller de motoimplementos, desde el ingreso del equipo hasta la entrega final al cliente.
-* **Arquitectura de Datos Compleja:** Implementación de una máquina de estados estricta en el backend para transiciones irreversibles y cálculo de canon por mora en tiempo real.
+Desarrollé una solución de automatización completa para digitalizar todo el flujo operativo de un taller de motoimplementos, desde el ingreso del equipo hasta la entrega final al cliente con notificaciones automatizadas.
+* **Arquitectura de Datos Compleja:** Implementación de una máquina de estados estricta en el backend para transiciones de estado irreversibles y cálculo de canon por mora en tiempo real.
 * **Ingeniería de APIs de WhatsApp:** Migración crítica de infraestructura de mensajería (Z-API a WasenderAPI), resolviendo la transición a **LIDs (`@lid`)** mediante algoritmos de auto-captura en cascada y deduplicación en webhooks entrantes.
 * **Optimización Core & Resiliencia:** Rediseño del flujo asíncrono de procesamiento de imágenes implementando un sistema de **reintentos con backoff dinámico** basado en los headers de *Account Protection* (`retry_after`), mitigando errores 429 y 422 bajo alta carga.
 * **UX Mobile-First (PWA):** Interfaz táctil optimizada que resuelve la inconsistencia de layouts visuales (`100vh` vs `inset` fijo en iOS/Android) y alertas mediante **Web Push API con VAPID keys**.
 
----
-
-### 🧠 Áreas de Interés Técnico & Enfoque
-
-* **Arquitecturas Event-Driven & Serverless:** Optimización de funciones serverless mitigando timeouts mediante colas HTTP desacopladas y background jobs.
-* **Seguridad y Autenticación:** Implementación de flujos de acceso híbridos seguros mediante cookies `HttpOnly; Secure; SameSite=Strict` validados en el Middleware de Next.js.
-* **Ingeniería Lógica y Analítica:** Aplicación práctica de lógica matemática, matrices y optimización algorítmica aplicada al desarrollo de software.
+> **Stack Utilizado:** `Next.js` · `TypeScript` · `Supabase (Realtime & Storage)` · `WasenderAPI` · `Vercel`  
+> 📄 **[Ver documentación técnica completa →](./TECHNICAL_OVERVIEW.md)** *(Análisis detallado de arquitectura, problemas de producción y soluciones)*
 
 ---
 
-### 🙋‍♂️ Sobre Mí
+### 💼 Servicios y Consultoría
 
-* 🌍 Soy de **Buenos Aires, Argentina**.
-* 📚 Estudiante universitario en la **Universidad Tecnológica Nacional (UTN)**.
-* 🚀 Orientado a resolver problemas de negocio reales a través de código limpio, documentado y mantenible.
+* **Desarrollo de MVPs de Extremo a Extremo:** Transformación de ideas de negocio en productos de software funcionales, escalables y listos para validar en el mercado.
+* **Automatización e Integración de APIs:** Conexión y optimización de flujos con servicios de terceros (Pasarelas de pago, APIs de mensajería, Modelos de Lenguaje/IA).
+* **Migración y Optimización de Infraestructura:** Transición de sistemas legados hacia arquitecturas modernas Serverless/Edge que reducen costos operativos fijos.
 
 ---
 
-### 🔗 Encontrame en:
+### 🔗 Canales de Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luciano_Gabriel_Rodrigo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/luciano-rodrigo-3402821ba/)
 [![Twitter](https://img.shields.io/badge/Twitter-@LRodrigoe7-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/L_Rodr1go)
