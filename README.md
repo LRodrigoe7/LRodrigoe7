@@ -23,7 +23,7 @@ Especializado en optimización de bases de datos relacionales, automatización d
 
 #### 🚀 Hacelo Viral — Plataforma AI-Driven de Publicidad Automática (MVP)
 Diseñé y lideré la arquitectura técnica de una plataforma SaaS comercial para la generación y automatización de campañas publicitarias dinámicas bajo financiamiento de capital privado.
-* **Integración de Inteligencia Artificial:** Implementation de pipelines en el backend orientados al procesamiento de prompts complejos para la generación automatizada de copys y estructuras de anuncios optimizados para conversión.
+* **Integración de Inteligencia Artificial:** Implementación de pipelines en el backend orientados al procesamiento de prompts complejos para la generación automatización de copys y estructuras de anuncios optimizados para conversión.
 * **Módulo de Reclutamiento Integrado:** Desarrollo de un sistema de tracking de aplicaciones y emparejamiento de perfiles para conectar creadores de contenido y marcas dentro de la misma plataforma.
 * **Estructura SaaS Multi-tenant:** Modelado y securización de la base de datos relacional para aislar de forma eficiente el consumo de recursos, analíticas y almacenamiento por cliente utilizando arquitecturas serverless.
 
@@ -37,7 +37,7 @@ Desarrollé una solución de automatización completa para digitalizar todo el f
 * **UX Mobile-First (PWA):** Interfaz táctil optimizada que resuelve la inconsistencia de layouts visuales (`100vh` vs `inset` fijo en iOS/Android) y alertas mediante **Web Push API con VAPID keys**.
 
 > **Stack Utilizado:** `Next.js` · `TypeScript` · `Supabase (Realtime & Storage)` · `WasenderAPI` · `Vercel`  
-> 📄 **[Ver documentación técnica completa →](./TECHNICAL_OVERVIEW.md)** *(Análisis detallado de arquitectura, problemas de producción y soluciones)*
+> 📄 **[Ver documentación técnica completa →](https://github.com/LRodrigoe7/ua-motoimplementos/blob/main/TECHNICAL_OVERVIEW.md)** *(Análisis detallado de arquitectura, problemas de producción y soluciones)*
 
 ---
 
