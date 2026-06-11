@@ -21,8 +21,14 @@ Me apasiona la arquitectura de software, optimizar bases de datos y resolver pro
 
 ### 📈 Proyectos Destacados
 
+#### 🚀 Hacelo Viral — Plataforma AI-Driven de Publicidad Automática (MVP)
+Diseñé y lideré la arquitectura técnica de un MVP escalable para una plataforma SaaS de generación y automatización de campañas publicitarias dinámicas, gestionando un presupuesto de desarrollo de **USD 12.000**.
+* **Integración de Inteligencia Artificial:** Implementación de pipelines de backend orientados al procesamiento de prompts para la generación automatizada de copys y estructuras de anuncios optimizados para conversión.
+* **Módulo de Reclutamiento Integrado:** Desarrollo de un sistema de tracking de aplicaciones y emparejamiento de perfiles para conectar creadores de contenido y marcas dentro de la misma plataforma.
+* **Estructura SaaS Multi-tenant:** Modelado y securización de la base de datos relacional para aislar de forma eficiente el consumo de recursos, analíticas y almacenamiento por cliente utilizando arquitecturas serverless sobre Vercel y Supabase.
+
 #### 🛠️ Sistema SaaS en Tiempo Real para Gestión de Talleres
-Desarrollé una plataforma de automatización completa para digitalizar todo el flujo operativo de un taller, desde el ingreso del equipo hasta la entrega final al cliente.
+Desarrollé una plataforma de automatización completa para digitalizar todo el flujo operativo de un taller de motoimplementos, desde el ingreso del equipo hasta la entrega final al cliente.
 * **Arquitectura de Datos Compleja:** Implementación de una máquina de estados estricta en el backend para transiciones irreversibles y cálculo de canon por mora en tiempo real.
 * **Ingeniería de APIs de WhatsApp:** Migración crítica de infraestructura de mensajería (Z-API a WasenderAPI), resolviendo la transición a **LIDs (`@lid`)** mediante algoritmos de auto-captura en cascada y deduplicación en webhooks entrantes.
 * **Optimización Core & Resiliencia:** Rediseño del flujo asíncrono de procesamiento de imágenes implementando un sistema de **reintentos con backoff dinámico** basado en los headers de *Account Protection* (`retry_after`), mitigando errores 429 y 422 bajo alta carga.
