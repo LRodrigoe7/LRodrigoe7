@@ -56,6 +56,6 @@ Desarrollé una plataforma de automatización completa para digitalizar todo el 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LRodrigoe7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Mis Estadísticas de GitHub — LRodrigoe7" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LRodrigoe7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true" alt="Mis Estadísticas de GitHub — LRodrigoe7" height="195px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LRodrigoe7&layout=compact&theme=tokyonight" alt="Lenguajes más usados — LRodrigoe7" height="195px" />
 </p>
