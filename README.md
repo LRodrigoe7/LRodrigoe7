@@ -22,7 +22,7 @@ Me apasiona la arquitectura de software, optimizar bases de datos y resolver pro
 ### 📈 Proyectos Destacados
 
 #### 🚀 Hacelo Viral — Plataforma AI-Driven de Publicidad Automática (MVP)
-Diseñé y lideré la arquitectura técnica de un MVP escalable para una plataforma SaaS de generación y automatización de campañas publicitarias dinámicas, gestionando un presupuesto de desarrollo de **USD 12.000**.
+Diseñé y lideré la arquitectura técnica de un MVP escalable para una plataforma SaaS de generación y automatización de campañas publicitarias dinámicas.
 * **Integración de Inteligencia Artificial:** Implementación de pipelines de backend orientados al procesamiento de prompts para la generación automatizada de copys y estructuras de anuncios optimizados para conversión.
 * **Módulo de Reclutamiento Integrado:** Desarrollo de un sistema de tracking de aplicaciones y emparejamiento de perfiles para conectar creadores de contenido y marcas dentro de la misma plataforma.
 * **Estructura SaaS Multi-tenant:** Modelado y securización de la base de datos relacional para aislar de forma eficiente el consumo de recursos, analíticas y almacenamiento por cliente utilizando arquitecturas serverless sobre Vercel y Supabase.
